@@ -1,0 +1,28 @@
+.fa-face-smile {
+    color: salmon;
+}
+
+h1,
+i {
+    text-align: center;
+}
+
+h1 {
+    color: hotpink;
+}
+
+i {
+    font-size: 10vw;
+}
+
+#all-group {
+    background-color: var(--btn-bg-color);
+}
+
+#blog {
+    background: white;
+}
+
+#blog:hover {
+    background-color: orange;
+}
